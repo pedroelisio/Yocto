@@ -16,5 +16,5 @@
 
 void LibHelloWorld()
 {
-  printf("Hello World (from a shared library by PES...!)\n");
+  printf("Hello World (from a shared library by PES...de certeza...!)\n");
 }

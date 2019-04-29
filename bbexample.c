@@ -10,7 +10,7 @@
 
 int main(int argc, char *argv[])
 {
-  printf("Hello Yocto World...by PES...Só para ter a certeza ...\n");
+  printf("Hello Yocto World...by PES...Só para ter a certeza na versão 2...\n");
 
   LibHelloWorld();
 
